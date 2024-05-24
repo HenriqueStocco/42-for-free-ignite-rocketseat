@@ -1,0 +1,13 @@
+{
+  "name": "node-middle-knowledge",
+  "version": "1.0.0",
+  "description": "node intermediate knowledge",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "Henrique Stocco",
+  "license": "ISC"
+}
