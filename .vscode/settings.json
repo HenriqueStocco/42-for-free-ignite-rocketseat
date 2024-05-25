@@ -43,7 +43,6 @@
   // Prettier 
   "prettier.printWidth": 80,
   "prettier.endOfLine": "lf",
-  "prettier.semi": true,
   "prettier.singleQuote": true,
   "prettier.bracketSameLine": false,
   "prettier.bracketSpacing": true,
@@ -51,16 +50,4 @@
   "prettier.trailingComma": "all",
   "prettier.useTabs": false,
   "prettier.arrowParens": "always",
-  // Terminal
-  // "terminal.integrated.defaultProfile.linux": "zsh",
-  // "terminal.integrated.fontFamily": "Fira Code, 'Fira Code', 'Droid Sans Mono', 'monospace'",
-  // "terminal.integrated.fontSize": 14,
-  // "terminal.integrated.fontWeight": "normal",
-  // "terminal.integrated.cursorStyle": "underline",
-  // Clock
-  // "dateTime.showHours": true,
-  // "dateTime.locale": "br",
-  // "dateTime.showDayOfMonth": true,
-  // "dateTime.showMonth": true,
-  // "livePreview.defaultPreviewPath": "/src/static/index.html",
 }
