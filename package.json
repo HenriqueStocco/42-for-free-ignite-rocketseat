@@ -8,6 +8,6 @@
     "dev": "node --watch src/server.js"
   },
   "keywords": [],
-  "author": "Henrique Stocco",
+  "author": "Henrique",
   "license": "ISC"
 }
